@@ -1,0 +1,394 @@
+{
+  "S045": {
+    "name": "上海市七宝中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S014": {
+    "name": "上海市南洋模范中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S010": {
+    "name": "上海市吴淞中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S006": {
+    "name": "上海市嘉定区第一中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S041": {
+    "name": "上海市六校期中联考",
+    "kind": "joint",
+    "group": "联考",
+    "type": "",
+    "isBranch": false
+  },
+  "S050": {
+    "name": "上海市市北中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S016": {
+    "name": "上海市徐汇中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中（市特色普通高中）",
+    "isBranch": false
+  },
+  "S024": {
+    "name": "上海市曹杨第二中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S029": {
+    "name": "上海市杨浦高级中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S056": {
+    "name": "上海市格致中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S012": {
+    "name": "上海市行知中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S026": {
+    "name": "上海市长征中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中",
+    "isBranch": false
+  },
+  "S047": {
+    "name": "上海市闵行中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S003": {
+    "name": "华东师范大学第二附属中学",
+    "kind": "school",
+    "group": "四校本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S039": {
+    "name": "华东师范大学附属东昌中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中（市特色普通高中）",
+    "isBranch": false
+  },
+  "S030": {
+    "name": "同济大学第一附属中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S005": {
+    "name": "复旦大学附属中学",
+    "kind": "school",
+    "group": "四校本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S031": {
+    "name": "上海外国语大学附属外国语学校松江云间中学",
+    "kind": "school",
+    "group": "享受市重点招生政策",
+    "type": "享受市实验性示范性高中招生政策高中",
+    "isBranch": false
+  },
+  "S009": {
+    "name": "上海大学附属中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S046": {
+    "name": "上海市七宝中学浦江分校",
+    "kind": "school",
+    "group": "分校",
+    "type": "一般高中",
+    "isBranch": true
+  },
+  "S044": {
+    "name": "上海市复旦中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S054": {
+    "name": "上海市大同中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S025": {
+    "name": "上海市曹杨第二中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S017": {
+    "name": "上海市第二中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S018": {
+    "name": "上海市第五十四中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中",
+    "isBranch": false
+  },
+  "S019": {
+    "name": "上海市西南位育中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中",
+    "isBranch": false
+  },
+  "S037": {
+    "name": "上海市进才中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S027": {
+    "name": "上海市长征中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中",
+    "isBranch": false
+  },
+  "S038": {
+    "name": "上海海洋大学附属大团高级中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中",
+    "isBranch": false
+  },
+  "S048": {
+    "name": "华东师范大学第二附属中学闵行紫竹分校",
+    "kind": "school",
+    "group": "分校",
+    "type": "享受市实验性示范性高中招生政策高中",
+    "isBranch": true
+  },
+  "S043": {
+    "name": "复旦大学附属复兴中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S053": {
+    "name": "上海市大同中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S052": {
+    "name": "上海市风华中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中",
+    "isBranch": false
+  },
+  "S042": {
+    "name": "上海市浦东新区期中联考",
+    "kind": "joint",
+    "group": "联考",
+    "type": "",
+    "isBranch": false
+  },
+  "S021": {
+    "name": "上海市宜川中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S040": {
+    "name": "华东师范大学附属东昌中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中（市特色普通高中）",
+    "isBranch": false
+  },
+  "S008": {
+    "name": "上海市奉贤中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S033": {
+    "name": "上海市松江二中",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S004": {
+    "name": "华东师范大学第二附属中学",
+    "kind": "school",
+    "group": "四校本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S001": {
+    "name": "上海交通大学附属中学",
+    "kind": "school",
+    "group": "四校本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S013": {
+    "name": "上海市南洋模范中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S007": {
+    "name": "上海市奉贤中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S020": {
+    "name": "上海市宜川中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S049": {
+    "name": "上海市市北中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S051": {
+    "name": "上海市市西中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S034": {
+    "name": "上海市建平中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S035": {
+    "name": "上海市建平中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S015": {
+    "name": "上海市徐汇中学",
+    "kind": "school",
+    "group": "区重点",
+    "type": "区实验性示范性高中（市特色普通高中）",
+    "isBranch": false
+  },
+  "S028": {
+    "name": "上海市控江中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S022": {
+    "name": "上海市晋元高级中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S023": {
+    "name": "上海市曹杨第二中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S032": {
+    "name": "上海市松江二中",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S055": {
+    "name": "上海市格致中学",
+    "kind": "school",
+    "group": "八大本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S011": {
+    "name": "上海市行知中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S036": {
+    "name": "上海市进才中学",
+    "kind": "school",
+    "group": "其他市重点",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  },
+  "S002": {
+    "name": "华东师范大学第二附属中学",
+    "kind": "school",
+    "group": "四校本部",
+    "type": "市实验性示范性高中",
+    "isBranch": false
+  }
+}
